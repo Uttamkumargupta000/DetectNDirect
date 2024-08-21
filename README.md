@@ -1,5 +1,9 @@
 # DetectNDirect
-This contain the code related to the detect and direct project
+
+<h2> Detect and Direct </h2>
+
+   This contain the code related to the detect and direct project
+   <img src="Images.jpeg" width="900" height="500">
 1. First Run the python file to detect circle and laser and comment the arduino part
 <br>
 2. Now connect the circuit as per the code in arduino 
